@@ -4,10 +4,10 @@ Data Visualization Project
 
 Performed by:
 
-  Adriana Monteiro
-  
-  Eduardo Palma
-  
-  José Ramirez Fernandes
-  
-  Pedro Nuno Ferreira
+    Adriana Monteiro
+
+    Eduardo Palma
+
+    José Ramirez Fernandes
+
+    Pedro Nuno Ferreira
