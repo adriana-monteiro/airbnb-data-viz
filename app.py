@@ -46,7 +46,7 @@ budapest_png = Image.open("budapester.png")
 london_png = Image.open("london.png")
 paris_png = Image.open("paris.png")
 rome_png = Image.open("rome.png")
-vienna_png = Image.open("vienna.png ")
+vienna_png = Image.open("vienna.png")
 lisbon_png = Image.open("lisbon.png")
 
 # airbnbs
