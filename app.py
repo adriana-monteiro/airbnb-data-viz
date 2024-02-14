@@ -35,7 +35,7 @@ df_full['realSum_log'] = df_full['realSum'].apply(lambda x: np.log10(x))
 ################################## FETCHING IMAGES #########################################
 
 # logo
-pil_image = Image.open("logo3.png")
+pil_image = Image.open("img/logo3.png")
 
 # cities
 amsterdam_png = Image.open("img/amsterdam.png")
