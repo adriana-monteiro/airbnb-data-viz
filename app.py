@@ -712,6 +712,7 @@ def update_card_header(city):
     elif city == 'vienna':
         title = 'Vienna'
         content = 'City of Austria'
+        image1 = vienna_png
 
     elif city == 'lisbon':
         title = 'Lisbon'
