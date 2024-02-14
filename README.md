@@ -1,6 +1,5 @@
 # data-viz-project
-Data Visualization Project
-
+Data Visualization Project: Airbnb Listings in European Cities
 
 Performed by:
 
