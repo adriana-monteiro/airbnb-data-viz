@@ -38,16 +38,16 @@ df_full['realSum_log'] = df_full['realSum'].apply(lambda x: np.log10(x))
 pil_image = Image.open("logo3.png")
 
 # cities
-amsterdam_png = Image.open("amsterdam.png")
-athens_png = Image.open("athens.png")
-barcelona_png = Image.open("barcelona.png")
-berlin_png = Image.open("berlin.png")
-budapest_png = Image.open("budapester.png")
-london_png = Image.open("london.png")
-paris_png = Image.open("paris.png")
-rome_png = Image.open("rome.png")
-vienna_png = Image.open("vienna.png")
-lisbon_png = Image.open("lisbon.png")
+amsterdam_png = Image.open("img/amsterdam.png")
+athens_png = Image.open("img/athens.png")
+barcelona_png = Image.open("img/barcelona.png")
+berlin_png = Image.open("img/berlin.png")
+budapest_png = Image.open("img/budapest.png")
+london_png = Image.open("img/london.png")
+paris_png = Image.open("img/paris.png")
+rome_png = Image.open("img/rome.png")
+vienna_png = Image.open("img/vienna.png")
+lisbon_png = Image.open("img/lisbon.png")
 
 # airbnbs
 a2_png = Image.open("img/2.png")
@@ -63,7 +63,7 @@ a19_png = Image.open("img/19.png")
 a20_png = Image.open("img/20.png")
 
 # plane and house of sidebar
-plane_png = Image.open('plane.png')
+plane_png = Image.open('img/plane.png')
 
 
 
